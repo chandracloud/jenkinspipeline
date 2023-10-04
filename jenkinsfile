@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('welcome'){
       steps{
-        echo "Welcome Jenkins"
+        echo "Welcome Jenkins, 2nd commit"
         }
     }
   }  
