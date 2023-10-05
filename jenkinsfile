@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('welcome'){
       steps{
-        echo "This is coming from developer branch"
+        echo "This is coming from hotfix"
         }
     }
   }  
